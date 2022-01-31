@@ -1,5 +1,5 @@
 /*  Ignacio Javier Medici DIV D 
-    E/S 01
+    E/S 05
 */
 /*
 Debemos lograr tomar nombre y edad por ID y mostrarlos concatenados 

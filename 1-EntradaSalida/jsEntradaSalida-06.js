@@ -1,5 +1,5 @@
 /*  Ignacio Javier Medici DIV D 
-    E/S 01
+    E/S 06
 */
 /*
 Debemos lograr tomar Los numeros por ID ,
