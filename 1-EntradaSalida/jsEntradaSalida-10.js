@@ -1,3 +1,6 @@
+/*  Ignacio Javier Medici DIV D 
+    E/S 01
+*/
 /*
 Debemos lograr tomar el importe por ID.
 Transformarlo a entero (parseInt), luego
