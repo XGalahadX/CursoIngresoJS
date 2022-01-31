@@ -1,5 +1,5 @@
 /*  Ignacio Javier Medici DIV D 
-    E/S 01
+    E/S 04
 */
 /* 
 Debemos lograr tomar un dato por 'PROMPT' 

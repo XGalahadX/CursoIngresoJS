@@ -1,5 +1,5 @@
 /*  Ignacio Javier Medici DIV D 
-    E/S 01
+    E/S 02
 */
 /*
 Debemos lograr tomar un nombre con 'prompt' 
