@@ -12,7 +12,7 @@ function mostrar()
 
     nombre = document.getElementById('txtIdNombre').value;
     edad = document.getElementById('txtIdEdad').value;
-    resultado = "Usted se llama " + nombre + " y tiene " + edad;
+    resultado = "Usted se llama " + nombre + " y tiene " + edad + " años";
     
     alert(resultado);
 }
