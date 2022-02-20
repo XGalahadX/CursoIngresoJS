@@ -7,12 +7,12 @@ function mostrar()
 	var contador;
 	var acumulador;
 	var respuesta;
-	contador=0;
-	acumulador=0;
-	respuesta='si';
+	contador = 0;
+	acumulador = 0;
+	respuesta = 'si';
 
 
-	txtIdSuma.value=acumulador;
-	txtIdPromedio.value=acumulador/contador;
+	txtIdSuma.value = acumulador;
+	txtIdPromedio.value = acumulador / contador;
 
 }//FIN DE LA FUNCIÓN
